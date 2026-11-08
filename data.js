@@ -217,7 +217,7 @@ const AWARDEES = [
 "Social Work"
 ],
 [
-37.jpg",
+"37.jpg",
 "Zamar",
 "Quetta",
 "Sports – Cricket"
