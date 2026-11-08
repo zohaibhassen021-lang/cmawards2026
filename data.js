@@ -265,7 +265,7 @@ const AWARDEES = [
 "Sports – Boxing"
 ],
 [
-"photos/45.jpg",
+"45.jpg",
 "Nargis Hazara",
 "Quetta",
 "Sports – Karate"
